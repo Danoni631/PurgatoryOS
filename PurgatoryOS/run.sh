@@ -1,0 +1,1 @@
+qemu-system-i386 -drive format=raw,file=PurgatoryOS_1.0.img -serial stdio
